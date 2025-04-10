@@ -6,6 +6,7 @@
         xmlns:local="clr-namespace:test_nadly"
         mc:Ignorable="d"
         Title="Calc" Height="600" Width="500">
+    
     <Window.Background>
         <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
             <LinearGradientBrush.RelativeTransform>
@@ -85,7 +86,7 @@
         <Button Grid.Row="1" Grid.Column="1" Margin="5,5,4,5">8</Button>
         <Button Grid.Row="2" Grid.Column="1" Margin="5,5,4,5">5</Button>
         <Button Grid.Row="3" Grid.Column="1" Margin="5,5,4,5">2</Button>
-        <Button Grid.Row="4" Grid.Column="1" Margin="5,5,4,5">
+        <Button Grid.Row="4" Grid.Column="1" Margin="5,5,4,5">C
             <Button.Background>
                 <SolidColorBrush Color="#FF3F4441" Opacity="1"/>
             </Button.Background>
